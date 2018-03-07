@@ -7,7 +7,7 @@ import {
   Text, TextInput,
   View
 } from 'react-native';
-export default class HitungLuasSegitiga extends Component {
+export default class HitungVolumeBalok extends Component {
   constructor(props){
     super(props)
     this.state = {
